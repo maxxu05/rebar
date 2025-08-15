@@ -1,5 +1,4 @@
 # REBAR: Retrieval-based Reconstruction for Time-series Contrastive Learning
-<sub><sup> Please note that the v1 repository has been finished and everything runs properly, but certain aspects, such as full documentation and other QOL changes (e.g. downloading model ckpts) are still a WIP. </sup></sub>
 
 Code for REBAR: Retrieval-Based Reconstruction For Time-series Contrastive Learning (presented at ICLR 2024), which achieves state-of-the-art performance against a wide range of representative self-supervised learning methods and is able to distinguish between semantically similar, but distinct classes. We do this by identifying postive pairs with a simple intuition: *if one sequence is useful for reconstructing another, then they should form a positive pair*.
 
